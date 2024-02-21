@@ -1,6 +1,6 @@
 {
-    "name": "restaurant_review_app",
-    "short_name": "restaurant_review_app",
+    "name": "dynamic_rate_calculator",
+    "short_name": "dynamic_rate_calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
